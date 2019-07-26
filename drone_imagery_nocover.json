@@ -1,0 +1,1261 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://libraries-stage.mit.edu/app/iiif/drone_imagery_nocover.json",
+  "@type": "sc:Manifest",
+  "label": "Spoon Only Images TEST ",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0287.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0287.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0287.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0287.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0287.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0293.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0293.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0293.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0293.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0293.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0330.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0330.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0330.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0330.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0330.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0331.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0331.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0331.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0331.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0331.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0292.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0292.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0292.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0292.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0292.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0286.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0286.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0286.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0286.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0286.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0290.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0290.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0290.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0290.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0290.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0333.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0333.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0333.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0333.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0333.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0332.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0332.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0332.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0332.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0332.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0291.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0291.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0291.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0291.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0291.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0295.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0295.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0295.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0295.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0295.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0336.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0336.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0336.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0336.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0336.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0337.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0337.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0337.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0337.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0337.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0294.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0294.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0294.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0294.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0294.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0043.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0043.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0043.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0043.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0043.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0335.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0335.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0335.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0335.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0335.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0334.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0334.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0334.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0334.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0334.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0042.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0042.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0042.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0042.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0042.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0025.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0025.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0025.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0025.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0025.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0024.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0024.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0024.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0024.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0024.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0026.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0026.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0026.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0026.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0026.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0378.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0378.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0378.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0378.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0378.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0379.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0379.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0379.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0379.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0379.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0027.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0027.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0027.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0027.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0027.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0023.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0023.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0023.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0023.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0023.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0369.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0369.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0369.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0369.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0369.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0382.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0382.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0382.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0382.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0382.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0340.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0340.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0340.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0340.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0340.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0022.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0022.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0022.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0022.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0022.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0020.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0020.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0020.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0020.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0020.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0381.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0381.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0381.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0381.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0381.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0380.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0380.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0380.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0380.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0380.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0021.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0021.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0021.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0021.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0021.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0372.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0372.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0372.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0372.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0372.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0373.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0373.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0373.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0373.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0373.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0371.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0371.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0371.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0371.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0371.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0370.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0370.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0370.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0370.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0370.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0374.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0374.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0374.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0374.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0374.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0375.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0375.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0375.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0375.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0375.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0377.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0377.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0377.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0377.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0377.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0376.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0376.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0376.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0376.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0376.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0028.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0028.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0028.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0028.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0028.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0339.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0339.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0339.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0339.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0339.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0338.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0338.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0338.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0338.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0338.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0288.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0288.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0288.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0288.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0288.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0289.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0289.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0289.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0289.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0289.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0328.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0328.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0328.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0328.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0328.JPG.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0329.JPG.json",
+          "@type": "sc:Canvas",
+          "label": "DJI_0329.JPG",
+          "height": 3648,
+          "width": 4864,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0329.JPG/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3648,
+                "width": 4864,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/gis%2FDJI_0329.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/drone_imagery/canvas/DJI_0329.JPG.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
